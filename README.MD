@@ -1,8 +1,7 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK - Data Science Gerado por I.A.s
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
 <a href="https://github.com/Digoas12/a-data-science-ebook-with-AI/blob/main/output/Ebook%20-%20Descomplicando%20o%20Data%20Science.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
