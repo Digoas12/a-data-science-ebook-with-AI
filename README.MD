@@ -35,7 +35,7 @@ Capa (ChatGPT)：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
